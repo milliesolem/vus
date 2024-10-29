@@ -1,8 +1,12 @@
 {
   "redirects": [
     {
+      "source": "/argsus",
+      "destination": "https://solem.dev/argsus"
+    },
+    {
       "source": "/(.*)",
-      "destination": "https://solem.dev/rolled"
+      "destination": "https://solem.dev/hackers"
     }
   ]
 }
