@@ -2,11 +2,15 @@
   "redirects": [
     {
       "source":"/opengoogle",
-      "destination":"https://google.com/amp/s/solem.dev/"
+      "destination":"https://google.com/amp/s/nmemonic.no/flagz/"
     },
     {
       "source": "/argsus",
       "destination": "https://solem.dev/argsus"
+    },
+    {
+      "source": "/flagz",
+      "destination": "https://127.0.0.1:8081/flag"
     },
     {
       "source": "/(.*)",
