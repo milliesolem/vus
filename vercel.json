@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source":"/opengoogle",
-      "destination":"https://google.com/amp/s/nmemonic.no/flagz/"
+      "destination":"https://google.com/amp/s/localhost:8081/flag/"
     },
     {
       "source": "/argsus",
