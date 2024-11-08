@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source":"/opengoogle",
+      "destination":"https://google.com/amp/s/solem.dev/"
+    },
+    {
       "source": "/argsus",
       "destination": "https://solem.dev/argsus"
     },
