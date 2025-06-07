@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source":"/loopback_5000",
-      "destination":"http://127.0.0.1:5000/"
+      "destination":"http://127.0.0.1:5000/admin"
     },
     {
       "source":"/nhnc2",
