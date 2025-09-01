@@ -18,6 +18,18 @@
     },
     {
       "source": "/(.*)", 
+      "has":[
+        {
+          "type":"header",
+          "key":"Host",
+          "value":"insaneoberry.com"
+        }
+      ],
+      "permanent":true,
+      "destination": "https://instagram.com/insaneoberry"
+    },
+    {
+      "source": "/(.*)", 
       "destination": "https://solem.dev/hackers"
     }
   ]
