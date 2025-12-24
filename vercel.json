@@ -30,7 +30,7 @@
     },
     {
       "source": "/(.*)", 
-      "destination": "https://solem.dev/hackers"
+      "destination": "https://solem.dev/rickmas"
     }
   ]
 }
