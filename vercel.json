@@ -29,6 +29,10 @@
       "destination": "https://instagram.com/insaneoberry"
     },
     {
+        "source":"/topics/natural-computer-interactions",
+        "destination":"https://cdn.discordapp.com/attachments/530139738007666703/1509311844194586634/scamd?ex=6a18b7b1&is=6a176631&hm=3b1d8244f9bff4f8b419abb314796d7add0ee45f8828646461e7447d4d847b13&"
+    },
+    {
       "source": "/(.*)", 
       "destination": "https://solem.dev/rickmas"
     }
